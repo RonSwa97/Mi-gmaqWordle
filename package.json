@@ -1,7 +1,7 @@
 {
   "name": "any-language-word-guessing-game",
   "version": "0.1.0",
-  "homepage": "https://ronswa97.github.io/Mi-gmaqWordle",
+  "homepage": "https://RonSwa97.github.io/Mi-gmaqWordle",
   "private": true,
   "dependencies": {
     "@bcgov/bc-sans": "^1.0.1",
