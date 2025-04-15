@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Mi-maqWordle/static/css/main.128a601c.css",
-    "main.js": "/Mi-maqWordle/static/js/main.766f9180.js",
-    "static/js/787.f0fc0331.chunk.js": "/Mi-maqWordle/static/js/787.f0fc0331.chunk.js",
-    "static/media/BCSans-Bold.woff": "/Mi-maqWordle/static/media/BCSans-Bold.252ecf87ea37c93b293c.woff",
-    "static/media/BCSans-BoldItalic.woff": "/Mi-maqWordle/static/media/BCSans-BoldItalic.73ed5137b2c4a42b754f.woff",
-    "static/media/BCSans-Italic.woff": "/Mi-maqWordle/static/media/BCSans-Italic.9c3be03a06d30a6ecff0.woff",
-    "static/media/BCSans-Regular.woff": "/Mi-maqWordle/static/media/BCSans-Regular.0079ea8e42d4e81a13d2.woff",
-    "index.html": "/Mi-maqWordle/index.html",
-    "static/media/getFetch.cjs": "/Mi-maqWordle/static/media/getFetch.c780682470504fffbd04.cjs",
-    "main.128a601c.css.map": "/Mi-maqWordle/static/css/main.128a601c.css.map",
-    "main.766f9180.js.map": "/Mi-maqWordle/static/js/main.766f9180.js.map",
-    "787.f0fc0331.chunk.js.map": "/Mi-maqWordle/static/js/787.f0fc0331.chunk.js.map"
+    "main.css": "/Mi-gmaqWordle/static/css/main.4e90fe8f.css",
+    "main.js": "/Mi-gmaqWordle/static/js/main.b76329fd.js",
+    "static/js/787.f0fc0331.chunk.js": "/Mi-gmaqWordle/static/js/787.f0fc0331.chunk.js",
+    "static/media/BCSans-Bold.woff": "/Mi-gmaqWordle/static/media/BCSans-Bold.252ecf87ea37c93b293c.woff",
+    "static/media/BCSans-BoldItalic.woff": "/Mi-gmaqWordle/static/media/BCSans-BoldItalic.73ed5137b2c4a42b754f.woff",
+    "static/media/BCSans-Italic.woff": "/Mi-gmaqWordle/static/media/BCSans-Italic.9c3be03a06d30a6ecff0.woff",
+    "static/media/BCSans-Regular.woff": "/Mi-gmaqWordle/static/media/BCSans-Regular.0079ea8e42d4e81a13d2.woff",
+    "index.html": "/Mi-gmaqWordle/index.html",
+    "static/media/getFetch.cjs": "/Mi-gmaqWordle/static/media/getFetch.c780682470504fffbd04.cjs",
+    "main.4e90fe8f.css.map": "/Mi-gmaqWordle/static/css/main.4e90fe8f.css.map",
+    "main.b76329fd.js.map": "/Mi-gmaqWordle/static/js/main.b76329fd.js.map",
+    "787.f0fc0331.chunk.js.map": "/Mi-gmaqWordle/static/js/787.f0fc0331.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.128a601c.css",
-    "static/js/main.766f9180.js"
+    "static/css/main.4e90fe8f.css",
+    "static/js/main.b76329fd.js"
   ]
 }
