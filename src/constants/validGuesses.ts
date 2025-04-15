@@ -7,6 +7,7 @@ export const VALIDGUESSES = [
   "geji'g",
   "nenul",
   "smtug",
+  "igtig",
 ];
 
 if (CONFIG.normalization) {
