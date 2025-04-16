@@ -1,6 +1,14 @@
 import { CONFIG } from "./config";
 
-export const WORDS = ["tege'g"];
+export const WORDS = [
+  "tege'g",
+  "nenaq",
+  "nenat",
+  "geji'g",
+  "nenul",
+  "smtug",
+  "igtig",
+];
 
 if (CONFIG.normalization) {
   WORDS.forEach((val, i) => (WORDS[i] = val.normalize(CONFIG.normalization)));
